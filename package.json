@@ -1,0 +1,24 @@
+{
+  "name": "pageagent-new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@page-agent/core": "^1.8.0",
+    "@page-agent/page-controller": "^1.8.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@rollup/plugin-replace": "^6.0.3",
+    "@vitejs/plugin-vue": "^4.5.0",
+    "vite": "^4.5.0",
+    "vite-plugin-css-injected-by-js": "^3.5.0"
+  }
+}
