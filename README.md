@@ -1,2 +1,6 @@
 # page-agent (Vue)
 npm run build
+
+<a href="javascript:(function(){var s=document.createElement('script');s.src='https://raw.githubusercontent.com/wuzhiping/page-agent/refs/heads/main/dist/agent.js?%27+Math.random();s.crossOrigin=%27anonymous%27;document.head.appendChild(s)})()">
+<span><span>✨ 智能填写助手</span></span>
+</a>
