@@ -1,2 +1,1 @@
-# page-agent
-https://alibaba.github.io/page-agent/
+# page-agent (Vue)
