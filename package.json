@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "npx vite build",
+    "dev": "vite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,11 +13,16 @@
   "dependencies": {
     "@page-agent/core": "^1.8.0",
     "@page-agent/page-controller": "^1.8.0",
+    "@quasar/extras": "^1.18.0",
+    "axios": "^1.15.2",
+    "quasar": "^2.19.3",
     "vue": "^3.3.4"
   },
   "devDependencies": {
+    "@quasar/vite-plugin": "^1.11.0",
     "@rollup/plugin-replace": "^6.0.3",
     "@vitejs/plugin-vue": "^4.5.0",
+    "sass-embedded": "^1.99.0",
     "vite": "^4.5.0",
     "vite-plugin-css-injected-by-js": "^3.5.0"
   }
