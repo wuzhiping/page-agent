@@ -1,2 +1,3 @@
 # page-agent (Vue)
-npm run build
+- npx vite build
+- npx http-server ./
